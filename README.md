@@ -91,12 +91,3 @@ The dashboard provides an interactive interface for exploring workforce metrics 
 
 The dashboard is implemented as a self-contained HTML application. The charts are rendered using Chart.js, which is loaded through a CDN.
 
----
-
-## Project Structure
-
-```text
-Workforce-Intelligence-Dashboard/
-│
-├── index.html
-└── README.md
