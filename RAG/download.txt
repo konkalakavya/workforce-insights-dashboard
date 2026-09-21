@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+*.log
+backend/venv/
+rag/vector_store/*.faiss
+rag/vector_store/*.json
+ML/saved_models/
+.DS_Store
